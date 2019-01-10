@@ -4,6 +4,8 @@
 
 ### Check out the Jupyter Notebook [here](https://github.com/Shritesh99/Object_Detection_100DaysOfMLCode/blob/master/Object%20Detection.ipynb)
 
+### Check out the project [here](http://shritesh99.github.io/Object_Detection_100DaysOfMLCode/)
+
 In this project, we will be deploying a convolutional neural network (CNN) for object recognition. More specifically, we will be using the All-CNN network published in the 2015 ICLR paper, "Striving For Simplicity: The All Convolutional Net". This paper can be found at the following link:
 
 https://arxiv.org/pdf/1412.6806.pdf
